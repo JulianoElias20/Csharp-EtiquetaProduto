@@ -1,0 +1,14 @@
+C:\Users\julia\source\repos\ProdutoPolimorfismo\ProdutoPolimorfismo\bin\Debug\net8.0\ProdutoPolimorfismo.exe
+C:\Users\julia\source\repos\ProdutoPolimorfismo\ProdutoPolimorfismo\bin\Debug\net8.0\ProdutoPolimorfismo.deps.json
+C:\Users\julia\source\repos\ProdutoPolimorfismo\ProdutoPolimorfismo\bin\Debug\net8.0\ProdutoPolimorfismo.runtimeconfig.json
+C:\Users\julia\source\repos\ProdutoPolimorfismo\ProdutoPolimorfismo\bin\Debug\net8.0\ProdutoPolimorfismo.dll
+C:\Users\julia\source\repos\ProdutoPolimorfismo\ProdutoPolimorfismo\bin\Debug\net8.0\ProdutoPolimorfismo.pdb
+C:\Users\julia\source\repos\ProdutoPolimorfismo\ProdutoPolimorfismo\obj\Debug\net8.0\ProdutoPolimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\source\repos\ProdutoPolimorfismo\ProdutoPolimorfismo\obj\Debug\net8.0\ProdutoPolimorfismo.AssemblyInfoInputs.cache
+C:\Users\julia\source\repos\ProdutoPolimorfismo\ProdutoPolimorfismo\obj\Debug\net8.0\ProdutoPolimorfismo.AssemblyInfo.cs
+C:\Users\julia\source\repos\ProdutoPolimorfismo\ProdutoPolimorfismo\obj\Debug\net8.0\ProdutoPolimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\julia\source\repos\ProdutoPolimorfismo\ProdutoPolimorfismo\obj\Debug\net8.0\ProdutoPolimorfismo.dll
+C:\Users\julia\source\repos\ProdutoPolimorfismo\ProdutoPolimorfismo\obj\Debug\net8.0\refint\ProdutoPolimorfismo.dll
+C:\Users\julia\source\repos\ProdutoPolimorfismo\ProdutoPolimorfismo\obj\Debug\net8.0\ProdutoPolimorfismo.pdb
+C:\Users\julia\source\repos\ProdutoPolimorfismo\ProdutoPolimorfismo\obj\Debug\net8.0\ProdutoPolimorfismo.genruntimeconfig.cache
+C:\Users\julia\source\repos\ProdutoPolimorfismo\ProdutoPolimorfismo\obj\Debug\net8.0\ref\ProdutoPolimorfismo.dll
